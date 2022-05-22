@@ -1,0 +1,2 @@
+# Car-dataset
+This is an analysis of a car dataset, showing the price of vehicles by different configuration, year of purchase, mileage and owner. The objective of this analysis is as follows: To have an idea as to the type of car a person should purchase based on its configuration. To have an idea of when to sell so as to get a good asking price. To make a decision on fuel type to purchase based on type of use. What type of seller should one purchase from. The correlating features
